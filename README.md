@@ -9,6 +9,13 @@
   AI assistant for a final-year BSc / BCS university batch
 </p>
 
+Usage Screenshots
+
+<img width="924" height="1600" alt="WhatsApp Image 2026-10-15 at 10 46 36 PM" src="https://github.com/user-attachments/assets/ea72989d-f8b7-40d4-8682-cc7da030ea90" />
+<img width="972" height="1600" alt="WhatsApp Image 2026-10-15 at 10 46 34 PM" src="https://github.com/user-attachments/assets/c9b0b78f-4249-416e-bc7e-4c2bf3184359" />
+
+
+
 > A lightweight WhatsApp AI assistant for a final-year university batch in Sri Lanka.
 
 Lily is a Node.js WhatsApp assistant designed to help a final-year BSc / BCS batch manage lecture information, conversations, and academic coordination without turning the group chat into noise.
